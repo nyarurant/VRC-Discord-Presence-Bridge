@@ -1,6 +1,6 @@
 # VRChat Discord Rich Presence Bridge
 
-![VRChat Discord Status](https://document.necco.xyz/20251111_214934) Rich Presenceに自動同期するNode.jsツール。
+[VRChat Discord Status](https://document.necco.xyz/20251111_214934) Rich Presenceに自動同期するNode.jsツール。
 
 ## 🎮 機能一覧
 
